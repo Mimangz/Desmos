@@ -1,3 +1,2 @@
 # Desmos
-A Simple Calculator from
-https://desmos.com
+An useful calculator from https://desmos.com
